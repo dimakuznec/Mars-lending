@@ -95,12 +95,10 @@ body {
 }
 
 .ellipse {
- position: absolute;
- width: 26px;
- height: 26px;
- left: 170px;
- top: 421px;
-
-
+   position: absolute;
+   width: 26px;
+   height: 26px;
+   left: 170px;
+   top: 421px;
 }
 
